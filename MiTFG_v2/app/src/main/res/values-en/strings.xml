@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings básicas de la app -->
+    <string name="app_name">PescApp</string>
+
+    <!-- Strings de splash -->
+    <string name="splash_subtitle">Loading...</string>
+
+    <!-- Strings de la pantalla principal -->
+    <string name="welcome_title">Welcome to PescApp!</string>
+    <string name="welcome_subtitle">Your complete fishing guide</string>
+
+    <!-- Strings de las 4 cards principales -->
+    <string name="documentation_title">Documentation</string>
+    <string name="documentation_desc">Regulations and documents</string>
+    <string name="documentation_placeholder">Documentation section - Regional regulations and personal documents</string>
+
+    <string name="fishing_types_title">Fishing Types</string>
+    <string name="fishing_types_desc">Styles and techniques</string>
+    <string name="fishing_types_header">Fishing Types</string>
+
+    <string name="knots_title">Knots</string>
+    <string name="knots_desc">Step-by-step tutorials</string>
+
+    <string name="lures_title">Lures</string>
+    <string name="lures_desc">Lure guide</string>
+
+    <!-- Strings de tipos de pesca -->
+    <string name="feeder_title">Feeder</string>
+    <string name="feeder_description">Feeder fishing is a technique that uses a feeder to attract fish to the fishing spot. It\'s ideal for catching carp, bream and other cyprinids in still waters.</string>
+
+    <string name="casting_title">Casting</string>
+    <string name="casting_description">Casting is a sport fishing modality that focuses on casting precision. It\'s practiced in both fresh and salt water, targeting predators like pike, perch or black bass.</string>
+
+    <string name="spinning_title">Spinning</string>
+    <string name="spinning_description">Spinning is an active fishing technique with artificial lures. It allows covering large water extensions and is very effective for catching predators like trout, pike and perch.</string>
+
+    <string name="fly_title">Fly</string>
+    <string name="fly_description">Fly fishing is an art that imitates the insects that fish feed on. It requires specific casting technique and is especially popular for trout and salmon fishing.</string>
+
+    <!-- Strings de tutoriales -->
+    <string name="step_number">Step %d</string>
+
+    <!-- Strings de señuelos -->
+    <string name="lure_1_name">Spoon</string>
+    <string name="lure_1_description">Classic spinning lure</string>
+    <string name="lure_1_step_1_description">Cast the spoon and let it sink to desired depth</string>
+    <string name="lure_1_step_2_description">Retrieve with regular movements, varying speed based on fish activity</string>
+
+    <string name="lure_2_name">Popper</string>
+    <string name="lure_2_description">Surface lure</string>
+    <string name="lure_2_step_1_description">Cast the popper in areas with surface activity</string>
+    <string name="lure_2_step_2_description">Make short, sharp movements to create surface splashes</string>
+
+    <string name="lure_3_name">Jig</string>
+    <string name="lure_3_description">Versatile weighted lure</string>
+    <string name="lure_3_step_1_description">Cast the jig and let it reach the bottom</string>
+    <string name="lure_3_step_2_description">Make short vertical movements, imitating an injured fish</string>
+
+    <!-- Strings de términos -->
+    <string name="menu_terms">Terms and Conditions</string>
+    <string name="terms_title_first_time">Terms and Conditions</string>
+    <string name="terms_title_menu">Terms and Conditions</string>
+    <string name="terms_accept_text">I have read and accept the terms and conditions</string>
+    <string name="terms_continue">Continue</string>
+
+    <!-- Strings de modo oscuro -->
+    <string name="menu_dark_mode">Dark Mode</string>
+    <string name="dark_mode_select_title">Select Theme</string>
+    <string name="theme_light">Light Mode</string>
+    <string name="theme_dark">Dark Mode</string>
+
+    <!-- Strings de idiomas -->
+    <string name="lang_spanish">Spanish</string>
+    <string name="lang_english">English</string>
+    <string name="language_spanish">Spanish</string>
+    <string name="language_english">English</string>
+    <string name="language_select_title">Select Language</string>
+
+    <!-- Strings del menú -->
+    <string name="menu_language">Language</string>
+
+    <!-- Strings de diálogos -->
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+
+    <!-- Strings de pantallas existentes -->
+    <string name="primera_title">First Screen</string>
+    <string name="primera_text">This is the secondary screen</string>
+    <string name="segunda_title">Second Screen</string>
+    <string name="segunda_text">This is the Second Activity!</string>
+    <string name="segunda_description">Created easily using BaseActivity class. Menu, theme and language work automatically.</string>
+
+    <!-- Strings de señuelos actualizadas -->
+    <string name="lures_header_title">Lure Types</string>
+
+    <!-- Nombres y descripciones cortas para la lista -->
+    <string name="lure_cucharilla_name">Spoon</string>
+    <string name="lure_cucharilla_description">Classic spinning lure</string>
+
+    <string name="lure_popper_name">Popper</string>
+    <string name="lure_popper_description">Surface lure</string>
+
+    <string name="lure_jig_name">Jig</string>
+    <string name="lure_jig_description">Versatile weighted lure</string>
+
+    <string name="lure_spinnerbait_name">Spinnerbait</string>
+    <string name="lure_spinnerbait_description">Lure with spinning blade</string>
+
+    <string name="lure_crankbait_name">Crankbait</string>
+    <string name="lure_crankbait_description">Diving lure</string>
+
+    <string name="lure_soft_plastic_name">Soft Plastic</string>
+    <string name="lure_soft_plastic_description">Soft plastic lure</string>
+
+    <!-- Descripciones completas para las pantallas de detalle -->
+    <string name="lure_cucharilla_full_description">The spoon is one of the most classic and effective lures for predator fishing. Its oval and concave shape allows it to spin on itself during retrieval, creating vibrations and flashes that attract fish.\n\nMain characteristics:\n• Easy to use for beginners\n• Effective in both clear and murky waters\n• Ideal for trout, perch and pike\n• Works well at different retrieval speeds\n\nUsage technique:\nCast the spoon and start a constant retrieval. Vary the speed according to fish activity. On cold days, retrieve more slowly.</string>
+
+    <string name="lure_popper_full_description">The popper is a surface lure designed to imitate an injured fish or insect on the water surface. Its characteristic concave mouth creates splashes and noise when moved.\n\nMain characteristics:\n• Floating surface lure\n• Creates lots of noise and splashes\n• Ideal for calm waters at dawn and dusk\n• Very effective for black bass and pike\n• Very exciting visual fishing\n\nUsage technique:\nCast near structures and wait for the water to calm down. Make short, sharp jerks followed by pauses. The attack usually occurs during the pause.</string>
+
+    <string name="lure_jig_full_description">The jig is one of the most versatile lures in fishing. It consists of a weighted head with hook, often complemented with rubbers, soft plastics or feathers.\n\nMain characteristics:\n• Extremely versatile\n• Allows fishing at any depth\n• Can be used with multiple techniques\n• Effective all year round\n• Perfectly imitates crabs and injured fish\n\nUsage technique:\nLet the jig reach the bottom and make short vertical movements. You can also drag it slowly or make jumps on the bottom. The key is to maintain constant contact with the lure.</string>
+
+    <string name="lure_spinnerbait_full_description">The spinnerbait is a unique lure with one or more spinning blades mounted on a V-shaped wire. It\'s very effective for fishing in dense vegetation.\n\nMain characteristics:\n• Spinning blades create vibrations\n• Weedless design\n• Works well in vegetation\n• Attracts fish from great distance\n• Ideal for black bass and pike\n\nUsage technique:\nRetrieve at constant speed keeping it just below the surface or at mid-water. You can make occasional pauses so the blades stop spinning momentarily.</string>
+
+    <string name="lure_crankbait_full_description">The crankbait is a hard lure that imitates small fish. Its front lip allows it to dive to different depths depending on the design.\n\nMain characteristics:\n• Perfectly imitates small fish\n• Available for different depths\n• Very attractive erratic movement\n• Effective in open waters\n• Ideal for covering lots of water quickly\n\nUsage technique:\nRetrieve at constant speed to maintain desired depth. Occasionally you can make jerks so the lure changes direction abruptly.</string>
+
+    <string name="lure_soft_plastic_full_description">Soft plastic lures are extremely versatile and realistic. Their soft texture makes them very attractive to fish.\n\nMain characteristics:\n• Very realistic texture and movement\n• Can be rigged in multiple ways\n• Available in countless shapes and colors\n• Effective with finesse techniques\n• Ideal for wary fish\n\nUsage technique:\nCan be used with Texas, Carolina, Drop Shot rigs, etc. The key is to impart subtle and natural movements. They are especially effective in clear waters and with educated fish.</string>
+
+    <string name="lure_default_description">Information about this lure coming soon.</string>
+
+    <!-- Contenido de términos y condiciones en inglés -->
+    <string name="terms_content">PESCAPP TERMS AND CONDITIONS OF USE
+
+1. ACCEPTANCE OF TERMS
+
+By downloading, installing, or using PescApp, you agree to be bound by these Terms and Conditions of Use. If you do not agree to these terms, do not use the application.
+
+2. SERVICE DESCRIPTION
+
+PescApp is a mobile application designed to provide information and tools related to fishing. The application may include features such as species identification, weather information, catch logging, and other related characteristics.
+
+3. PERMITTED USE
+
+3.1. You may use PescApp solely for personal and non-commercial purposes.
+3.2. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information obtained from the application.
+3.3. You must not use the application in a way that could damage, disable, overburden, or impair the service.
+
+4. USER CONTENT
+
+4.1. You are responsible for all content you post or share through PescApp.
+4.2. By submitting content, you grant PescApp a non-exclusive, royalty-free, worldwide, and transferable license to use, reproduce, distribute, and display such content.
+
+5. PRIVACY
+
+Your privacy is important to us. The use of PescApp is subject to our Privacy Policy, which forms part of these terms.
+
+6. LIABILITY
+
+6.1. PescApp is provided "as is" without warranties of any kind.
+6.2. We do not guarantee that the application will be error-free or operate without interruptions.
+6.3. We are not responsible for any direct, indirect, incidental, or consequential damages resulting from the use of the application.
+
+7. MODIFICATIONS
+
+We reserve the right to modify these terms at any time. Changes will take effect immediately after publication in the application.
+
+8. TERMINATION
+
+We may terminate or suspend your access to PescApp at any time, without prior notice, for any reason.
+
+9. APPLICABLE LAW
+
+These terms are governed by the laws of Spain. Any dispute will be resolved in the competent courts of Spain.
+
+10. CONTACT
+
+If you have questions about these terms, you can contact us at: info@pescapp.com
+
+Last updated: May 2025
+
+By continuing, you confirm that you have read, understood, and accept these terms and conditions.</string>
+
+
+    <!-- Strings de nudos - NUEVA SECCIÓN COMPLETA -->
+    <string name="knot_difficulty_level">Step-by-step tutorial</string>
+    <string name="knot_tap_to_learn">Tap to learn</string>
+    <string name="knot_steps_label">Steps:</string>
+
+    <!-- ACTUALIZAR ESTAS (REEMPLAZAR LAS VIEJAS) -->
+    <string name="knot_1_name">Palomar Knot</string>
+    <string name="knot_1_description">One of the strongest and most reliable knots. Ideal for hooks and lures. Retains up to 95% of line strength.</string>
+    <string name="knot_1_step_1_description">Double about 6 inches of line and pass it through the hook eye, leaving a double loop.</string>
+    <string name="knot_1_step_2_description">Tie a simple overhand knot with the double loop, but don\'t tighten it yet.</string>
+    <string name="knot_1_step_3_description">Pass the hook completely through the loop you formed.</string>
+    <string name="knot_1_step_4_description">Wet the knot and pull both ends of the line to tighten. Trim the excess.</string>
+
+    <!-- NUEVOS NUDOS 2-6 -->
+    <string name="knot_2_name">Loop Knot</string>
+    <string name="knot_2_description">Perfect for creating a fixed loop at the end of the line. Very useful for connecting lures that need freedom of movement.</string>
+    <string name="knot_2_step_1_description">Form a loop of desired size and cross the line over itself.</string>
+    <string name="knot_2_step_2_description">Pass the tag end through the small loop that formed near the main loop.</string>
+    <string name="knot_2_step_3_description">Wet and tighten by pulling the tag end and the main loop.</string>
+
+    <string name="knot_3_name">Double Loop Knot</string>
+    <string name="knot_3_description">Excellent for fishing with heavy lures. Provides greater strength and allows better lure action.</string>
+    <string name="knot_3_step_1_description">Pass the line twice through the hook eye, forming a double loop.</string>
+    <string name="knot_3_step_2_description">Wrap the tag end 5-7 times around the main line.</string>
+    <string name="knot_3_step_3_description">Pass the tag end through the double loop near the hook. Wet and tighten slowly.</string>
+
+    <string name="knot_4_name">Davy Knot</string>
+    <string name="knot_4_description">Quick and simple knot, especially popular in fly fishing. Very easy to tie even with thin lines.</string>
+    <string name="knot_4_step_1_description">Pass the line through the hook eye and tie a simple overhand knot without tightening.</string>
+    <string name="knot_4_step_2_description">Pass the tag end through the simple knot you just made once more.</string>
+    <string name="knot_4_step_3_description">Wet and tighten by pulling the main line. Trim excess very close to the knot.</string>
+
+    <string name="knot_5_name">Double Fisherman\'s Knot</string>
+    <string name="knot_5_description">Ideal for joining two lines of similar thickness. Very secure and reliable, especially for monofilament lines.</string>
+    <string name="knot_5_step_1_description">Place the two lines parallel with the ends in opposite directions.</string>
+    <string name="knot_5_step_2_description">With one end, make two wraps around the other line and pass it through the loop. Repeat with the other end.</string>
+    <string name="knot_5_step_3_description">Wet both knots and pull the main lines to bring them together. The knots should slide against each other.</string>
+
+    <string name="knot_6_name">Trilene Knot</string>
+    <string name="knot_6_description">Strong and versatile, excellent for monofilament and fluorocarbon. Provides a very strong connection to the hook.</string>
+    <string name="knot_6_step_1_description">Pass the line twice through the hook eye from the same side.</string>
+    <string name="knot_6_step_2_description">Bring the tag end back and make 5-7 wraps around the main line.</string>
+    <string name="knot_6_step_3_description">Pass the tag end through the first loop that formed near the hook eye.</string>
+    <string name="knot_6_step_4_description">Then pass the tag end through the large loop you just created.</string>
+    <string name="knot_6_step_5_description">Wet completely and tighten slowly by pulling the main line and tag end. Trim the excess.</string>
+
+
+    <string name="region_andalucia">Andalusia</string>
+    <string name="region_aragon">Aragon</string>
+    <string name="region_asturias">Asturias</string>
+    <string name="region_baleares">Balearic Islands</string>
+    <string name="region_canarias">Canary Islands</string>
+    <string name="region_cantabria">Cantabria</string>
+    <string name="region_castilla_la_mancha">Castile-La Mancha</string>
+    <string name="region_castilla_leon">Castile and León</string>
+    <string name="region_cataluna">Catalonia</string>
+    <string name="region_extremadura">Extremadura</string>
+    <string name="region_galicia">Galicia</string>
+    <string name="region_la_rioja">La Rioja</string>
+    <string name="region_madrid">Madrid</string>
+    <string name="region_murcia">Murcia</string>
+    <string name="region_navarra">Navarre</string>
+    <string name="region_pais_vasco">Basque Country</string>
+    <string name="region_valencia">Valencia</string>
+    <string name="region_ceuta">Ceuta</string>
+    <string name="region_melilla">Melilla</string>
+
+
+    <!-- _________________________________________ -->
+
+    <!-- Filter strings -->
+    <string name="filters_title">Search Filters</string>
+    <string name="search_documents_hint">Search documents...</string>
+    <string name="filter_by_type">Type</string>
+    <string name="filter_by_region">Autonomous Region</string>
+    <string name="filter_all_documents">All documents</string>
+    <string name="filter_official_documents">Official documents</string>
+    <string name="filter_personal_documents">Personal documents</string>
+    <string name="filter_all_regions">All regions</string>
+    <string name="no_documents_match_filter">No documents match the filters</string>
+    <string name="clear_filters">Clear filters</string>
+    <string name="showing_documents">Showing %1$d of %2$d documents</string>
+
+    <!-- Documentation strings -->
+    <string name="documentation_header_title">Fishing Documentation</string>
+    <string name="documentation_header_subtitle">Regional regulations and personal documents</string>
+    <string name="select_pdf_file">Select PDF file</string>
+    <string name="enter_document_name">Enter document name</string>
+    <string name="document_name_hint">Document name</string>
+    <string name="save">Save</string>
+    <string name="user_document">Personal document</string>
+    <string name="rename_document">Rename document</string>
+    <string name="delete_document">Delete document</string>
+    <string name="delete_document_confirmation">Are you sure you want to delete "%s"?</string>
+    <string name="delete">Delete</string>
+
+    <!-- Error strings -->
+    <string name="error_opening_file_picker">Error opening file picker</string>
+    <string name="error_not_pdf_file">Selected file is not a valid PDF</string>
+    <string name="error_empty_name">Name cannot be empty</string>
+    <string name="error_copying_file">Error copying file</string>
+    <string name="error_processing_document">Error processing document</string>
+    <string name="error_saving_document">Error saving document</string>
+    <string name="error_renaming_document">Error renaming document</string>
+    <string name="error_deleting_document">Error deleting document</string>
+    <string name="error_file_not_found">File not found</string>
+    <string name="error_loading_pdf">Error loading PDF</string>
+    <string name="error_rendering_pdf">Error rendering PDF</string>
+
+    <!-- Success strings -->
+    <string name="document_saved_successfully">Document saved successfully</string>
+    <string name="document_renamed_successfully">Document renamed successfully</string>
+    <string name="document_deleted_successfully">Document deleted successfully</string>
+
+    <!-- PDF viewer strings -->
+    <string name="pdf_viewer_title">PDF Viewer</string>
+    <string name="page_number">Page %d</string>
+
+    <!-- Additional documentation strings -->
+    <string name="predefined_documents">Official Documents</string>
+    <string name="user_documents">My Documents</string>
+    <string name="no_documents_found">No documents available</string>
+    <string name="add_your_first_document">Add your first document by tapping the + button</string>
+    <string name="autonomous_region">Autonomous Region</string>
+    <string name="fishing_regulations">Fishing Regulations</string>
+    <string name="document_options">Document options</string>
+    <string name="share_document">Share document</string>
+    <string name="document_info">Document information</string>
+    <string name="file_size">File size</string>
+    <string name="date_added">Date added</string>
+    <string name="loading_document">Loading document...</string>
+    <string name="generating_thumbnail">Generating thumbnail...</string>
+    <string name="processing_file">Processing file...</string>
+
+    <!-- Strings para filtros colapsables -->
+    <string name="show_filters">Filters</string>
+    <string name="hide_filters">Hide</string>
+    <string name="filters_cleared">Filters cleared</string>
+
+
+</resources>

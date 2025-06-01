@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Override de colores para modo oscuro -->
+    <color name="river_bg_light">#121212</color>
+    <color name="river_card_bg">#2C2C2C</color>
+    <color name="river_dark_blue">#BBDEFB</color>
+</resources>
