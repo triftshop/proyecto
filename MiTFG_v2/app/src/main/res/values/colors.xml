@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores base -->
+    <color name="river_blue">#0D47A1</color>
+    <color name="river_blue_dark">#08306B</color>
+    <color name="river_green">#388E3C</color>
+    <color name="river_green_dark">#1B5E20</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Colores para modo CLARO -->
+    <color name="river_bg_light">#E3F2FD</color>
+    <color name="river_dark_blue">#0B3D91</color>
+    <color name="river_card_bg">#BBDEFB</color>
+
+    <!-- Colores para modo OSCURO -->
+    <color name="dark_background">#121212</color>
+    <color name="dark_surface">#1E1E1E</color>
+    <color name="dark_card_bg">#2C2C2C</color>
+    <color name="dark_text">#FFFFFF</color>
+
+    <!-- Colores específicos para cada card principal -->
+    <color name="card_documentation_bg">#2E7D32</color>      <!-- Verde documentación -->
+    <color name="card_fishing_types_bg">#1565C0</color>      <!-- Azul tipos de pesca -->
+    <color name="card_knots_bg">#E65100</color>              <!-- Naranja nudos -->
+    <color name="card_lures_bg">#AD1457</color>              <!-- Rosa señuelos -->
+
+    <!-- Colores para tipos de pesca -->
+    <color name="card_feeder_bg">#795548</color>             <!-- Marrón feeder -->
+    <color name="card_casting_bg">#FF5722</color>            <!-- Naranja casting -->
+    <color name="card_spinning_bg">#9C27B0</color>           <!-- Púrpura spinning -->
+    <color name="card_fly_bg">#607D8B</color>                <!-- Gris azulado fly -->
+</resources>

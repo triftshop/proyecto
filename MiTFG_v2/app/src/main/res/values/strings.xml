@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Strings básicas de la app -->
+    <string name="app_name">PescApp</string>
+
+    <!-- Strings de splash -->
+    <string name="splash_subtitle">Cargando...</string>
+
+    <!-- Strings de la pantalla principal -->
+    <string name="welcome_title">¡Bienvenido a PescApp!</string>
+    <string name="welcome_subtitle">Tu guía completa de pesca</string>
+
+    <!-- Strings de las 4 cards principales -->
+    <string name="documentation_title">Documentación</string>
+    <string name="documentation_desc">Normativas y documentos</string>
+    <string name="documentation_placeholder">Sección de documentación - Normativas autonómicas y documentos personales</string>
+
+    <string name="fishing_types_title">Tipos de Pesca</string>
+    <string name="fishing_types_desc">Estilos y técnicas</string>
+    <string name="fishing_types_header">Tipos de Pesca</string>
+
+    <string name="knots_title">Nudos</string>
+    <string name="knots_desc">Tutoriales paso a paso</string>
+
+    <string name="lures_title">Señuelos</string>
+    <string name="lures_desc">Guía de señuelos</string>
+
+    <!-- Strings de tipos de pesca -->
+    <string name="feeder_title">Feeder</string>
+    <string name="feeder_description">La pesca al feeder es una técnica que utiliza un comedero para atraer a los peces al punto de pesca. Es ideal para pescar carpas, bremas y otros ciprínidos en aguas tranquilas.</string>
+
+    <string name="casting_title">Casting</string>
+    <string name="casting_description">El casting es una modalidad de pesca deportiva que se ceniza en la precisión del lance. Se practica tanto en agua dulce como salada, buscando depredadores como el lucio, la perca o el black bass.</string>
+
+    <string name="spinning_title">Spinning</string>
+    <string name="spinning_description">El spinning es una técnica activa de pesca con señuelos artificiales. Permite cubrir grandes extensiones de agua y es muy efectiva para capturar depredadores como la trucha, el lucio y la perca.</string>
+
+    <string name="fly_title">Mosca</string>
+    <string name="fly_description">La pesca a mosca es un arte que imita los insectos de los que se alimentan los peces. Requiere técnica específica de lance y es especialmente popular para la pesca de truchas y salmones.</string>
+
+    <!-- Strings de tutoriales -->
+    <string name="step_number">Paso %d</string>
+
+    <!-- Strings de señuelos -->
+    <string name="lure_1_name">Cucharilla</string>
+    <string name="lure_1_description">Señuelo giratorio clásico</string>
+    <string name="lure_1_step_1_description">Lanza la cucharilla y deja que se hunda hasta la profundidad deseada</string>
+    <string name="lure_1_step_2_description">Recoge con movimientos regulares, variando la velocidad según la actividad de los peces</string>
+
+    <string name="lure_2_name">Popper</string>
+    <string name="lure_2_description">Señuelo de superficie</string>
+    <string name="lure_2_step_1_description">Lanza el popper en zonas con actividad superficial</string>
+    <string name="lure_2_step_2_description">Haz movimientos cortos y secos para crear salpicaduras en superficie</string>
+
+    <string name="lure_3_name">Jig</string>
+    <string name="lure_3_description">Señuelo lastrado versátil</string>
+    <string name="lure_3_step_1_description">Lanza el jig y deja que llegue al fondo</string>
+    <string name="lure_3_step_2_description">Realiza movimientos verticales cortos, imitando un pez herido</string>
+
+    <!-- Strings de términos -->
+    <string name="menu_terms">Términos y Condiciones</string>
+    <string name="terms_title_first_time">Términos y Condiciones</string>
+    <string name="terms_title_menu">Términos y Condiciones</string>
+    <string name="terms_accept_text">He leído y acepto los términos y condiciones</string>
+    <string name="terms_continue">Continuar</string>
+
+    <!-- Strings de modo oscuro -->
+    <string name="menu_dark_mode">Modo Oscuro</string>
+    <string name="dark_mode_select_title">Selecciona tema</string>
+    <string name="theme_light">Modo Claro</string>
+    <string name="theme_dark">Modo Oscuro</string>
+
+    <!-- Strings de idiomas -->
+    <string name="lang_spanish">Español</string>
+    <string name="lang_english">Inglés</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_english">Inglés</string>
+    <string name="language_select_title">Selecciona idioma</string>
+
+    <!-- Strings del menú -->
+    <string name="menu_language">Idioma</string>
+
+    <!-- Strings de diálogos -->
+    <string name="cancel">Cancelar</string>
+    <string name="done">Aceptar</string>
+
+    <!-- Strings de pantallas existentes -->
+    <string name="primera_title">Primera Pantalla</string>
+    <string name="primera_text">Esta es la pantalla secundaria</string>
+    <string name="segunda_title">Segunda Pantalla</string>
+    <string name="segunda_text">¡Esta es la Segunda Actividad!</string>
+    <string name="segunda_description">Creada fácilmente usando la clase BaseActivity. El menú, tema e idioma funcionan automáticamente.</string>
+
+    <!-- Strings de señuelos actualizadas -->
+    <string name="lures_header_title">Tipos de Señuelos</string>
+
+    <!-- Nombres y descripciones cortas para la lista -->
+    <string name="lure_cucharilla_name">Cucharilla</string>
+    <string name="lure_cucharilla_description">Señuelo giratorio clásico</string>
+
+    <string name="lure_popper_name">Popper</string>
+    <string name="lure_popper_description">Señuelo de superficie</string>
+
+    <string name="lure_jig_name">Jig</string>
+    <string name="lure_jig_description">Señuelo lastrado versátil</string>
+
+    <string name="lure_spinnerbait_name">Spinnerbait</string>
+    <string name="lure_spinnerbait_description">Señuelo con pala giratoria</string>
+
+    <string name="lure_crankbait_name">Crankbait</string>
+    <string name="lure_crankbait_description">Señuelo de buceo</string>
+
+    <string name="lure_soft_plastic_name">Vinilo</string>
+    <string name="lure_soft_plastic_description">Señuelo de plástico blando</string>
+
+    <!-- Descripciones completas para las pantallas de detalle -->
+    <string name="lure_cucharilla_full_description">La cucharilla es uno de los señuelos más clásicos y efectivos para la pesca de depredadores. Su forma ovalada y cóncava le permite girar sobre sí misma durante la recuperación, creando vibraciones y destellos que atraen a los peces.\n\nCaracterísticas principales:\n• Fácil de usar para principiantes\n• Efectiva en aguas tanto claras como turbias\n• Ideal para truchas, percas y lucios\n• Funciona bien a diferentes velocidades de recuperación\n\nTécnica de uso:\nLanza la cucharilla y comienza una recuperación constante. Varía la velocidad según la actividad de los peces. En días fríos, recupera más lentamente.</string>
+
+    <string name="lure_popper_full_description">El popper es un señuelo de superficie diseñado para imitar a un pez herido o insecto en la superficie del agua. Su característica boca cóncava crea salpicaduras y ruido al ser movido.\n\nCaracterísticas principales:\n• Señuelo de superficie flotante\n• Crea mucho ruido y salpicaduras\n• Ideal para aguas tranquilas al amanecer y atardecer\n• Muy efectivo para black bass y lucios\n• Pesca visual muy emocionante\n\nTécnica de uso:\nLanza cerca de estructuras y espera a que se calme el agua. Realiza tirones cortos y secos seguidos de pausas. El ataque suele producirse durante la pausa.</string>
+
+    <string name="lure_jig_full_description">El jig es uno de los señuelos más versátiles en la pesca. Consiste en una cabeza lastrada con anzuelo, a menudo complementado con gomas, vinilos o plumas.\n\nCaracterísticas principales:\n• Extremadamente versátil\n• Permite pescar a cualquier profundidad\n• Se puede usar con múltiples técnicas\n• Efectivo todo el año\n• Imita perfectamente cangrejos y peces heridos\n\nTécnica de uso:\nDeja que el jig llegue al fondo y realiza movimientos verticales cortos. También puedes arrastrarlo lentamente o realizar saltos sobre el fondo. La clave está en mantener contacto constante con el señuelo.</string>
+
+    <string name="lure_spinnerbait_full_description">El spinnerbait es un señuelo único con una o más palas giratorias montadas en un alambre en forma de V. Es muy efectivo para pescar en vegetación densa.\n\nCaracterísticas principales:\n• Palas giratorias crean vibraciones\n• Diseño anti-enganche\n• Funciona bien en vegetación\n• Atrae peces desde gran distancia\n• Ideal para black bass y lucios\n\nTécnica de uso:\nRecupera a velocidad constante manteniéndolo justo bajo la superficie o a media agua. Puedes hacer pausas ocasionales para que las palas dejen de girar momentáneamente.</string>
+
+    <string name="lure_crankbait_full_description">El crankbait es un señuelo duro que imita peces pequeños. Su pala frontal le permite bucear a diferentes profundidades según el diseño.\n\nCaracterísticas principales:\n• Imita perfectamente peces pequeños\n• Disponible para diferentes profundidades\n• Movimiento errático muy atractivo\n• Efectivo en aguas abiertas\n• Ideal para cubrir mucha agua rápidamente\n\nTécnica de uso:\nRecupera a velocidad constante para mantener la profundidad deseada. Ocasionalmente puedes hacer tirones para que el señuelo cambie de dirección bruscamente.</string>
+
+    <string name="lure_soft_plastic_full_description">Los señuelos de vinilo o plástico blando son extremadamente versátiles y realistas. Su textura blanda los hace muy atractivos para los peces.\n\nCaracterísticas principales:\n• Textura y movimiento muy realistas\n• Se pueden montar de múltiples formas\n• Disponibles en infinidad de formas y colores\n• Efectivos con técnicas finesse\n• Ideales para peces desconfiados\n\nTécnica de uso:\nPueden usarse con montajes Texas, Carolina, Drop Shot, etc. La clave está en impartir movimientos sutiles y naturales. Son especialmente efectivos en aguas claras y con peces educados.</string>
+
+    <string name="lure_default_description">Información sobre este señuelo próximamente disponible.</string>
+
+    <!-- Contenido de términos y condiciones -->
+    <string name="terms_content">TÉRMINOS Y CONDICIONES DE USO DE PESCAPP
+
+1. ACEPTACIÓN DE LOS TÉRMINOS
+
+Al descargar, instalar o utilizar PescApp, usted acepta estar sujeto a estos Términos y Condiciones de Uso. Si no está de acuerdo con estos términos, no utilice la aplicación.
+
+2. DESCRIPCIÓN DEL SERVICIO
+
+PescApp es una aplicación móvil diseñada para proporcionar información y herramientas relacionadas con la pesca. La aplicación puede incluir funciones como identificación de especies, información meteorológica, registro de capturas y otras características relacionadas.
+
+3. USO PERMITIDO
+
+3.1. Usted puede usar PescApp únicamente para fines personales y no comerciales.
+3.2. No está permitido modificar, copiar, distribuir, transmitir, mostrar, realizar, reproducir, publicar, licenciar, crear obras derivadas, transferir o vender cualquier información obtenida de la aplicación.
+3.3. No debe usar la aplicación de manera que pueda dañar, deshabilitar, sobrecargar o deteriorar el servicio.
+
+4. CONTENIDO DEL USUARIO
+
+4.1. Usted es responsable de todo el contenido que publique o comparta a través de PescApp.
+4.2. Al enviar contenido, otorga a PescApp una licencia no exclusiva, libre de regalías, mundial y transferible para usar, reproducir, distribuir y mostrar dicho contenido.
+
+5. PRIVACIDAD
+
+Su privacidad es importante para nosotros. El uso de PescApp está sujeto a nuestra Política de Privacidad, que forma parte de estos términos.
+
+6. RESPONSABILIDAD
+
+6.1. PescApp se proporciona "tal como está" sin garantías de ningún tipo.
+6.2. No garantizamos que la aplicación esté libre de errores o que funcione sin interrupciones.
+6.3. No somos responsables de ningún daño directo, indirecto, incidental o consecuente que resulte del uso de la aplicación.
+
+7. MODIFICACIONES
+
+Nos reservamos el derecho de modificar estos términos en cualquier momento. Los cambios entrarán en vigor inmediatamente después de su publicación en la aplicación.
+
+8. TERMINACIÓN
+
+Podemos terminar o suspender su acceso a PescApp en cualquier momento, sin previo aviso, por cualquier motivo.
+
+9. LEY APLICABLE
+
+Estos términos se rigen por las leyes de España. Cualquier disputa será resuelta en los tribunales competentes de España.
+
+10. CONTACTO
+
+Si tiene preguntas sobre estos términos, puede contactarnos en: info@pescapp.com
+
+Fecha de última actualización: Mayo 2025
+
+Al continuar, confirma que ha leído, entendido y acepta estos términos y condiciones.</string>
+
+
+    <!-- Strings de nudos - NUEVA SECCIÓN COMPLETA -->
+    <string name="knot_difficulty_level">Tutorial paso a paso</string>
+    <string name="knot_tap_to_learn">Toca para aprender</string>
+    <string name="knot_steps_label">Pasos:</string>
+
+    <!-- ACTUALIZAR ESTAS (REEMPLAZAR LAS VIEJAS) -->
+    <string name="knot_1_name">Nudo Palomar</string>
+    <string name="knot_1_description">Uno de los nudos más fuertes y confiables. Ideal para anzuelos y señuelos. Conserva hasta el 95% de la resistencia del sedal.</string>
+    <string name="knot_1_step_1_description">Dobla unos 15cm de sedal y pásalo por el ojo del anzuelo, dejando un bucle doble.</string>
+    <string name="knot_1_step_2_description">Haz un nudo simple con el bucle doble, pero no lo aprietes aún.</string>
+    <string name="knot_1_step_3_description">Pasa el anzuelo completamente a través del bucle que formaste.</string>
+    <string name="knot_1_step_4_description">Humedece el nudo y tira de ambos extremos del sedal para apretarlo. Corta el sobrante.</string>
+
+    <!-- NUEVOS NUDOS 2-6 -->
+    <string name="knot_2_name">Nudo de Bucle</string>
+    <string name="knot_2_description">Perfecto para crear un bucle fijo en el extremo del sedal. Muy útil para conectar señuelos que necesitan libertad de movimiento.</string>
+    <string name="knot_2_step_1_description">Forma un bucle del tamaño deseado y cruza el sedal sobre sí mismo.</string>
+    <string name="knot_2_step_2_description">Pasa el extremo del sedal a través del bucle pequeño que se formó cerca del bucle principal.</string>
+    <string name="knot_2_step_3_description">Humedece y aprieta tirando del extremo del sedal y del bucle principal.</string>
+
+    <string name="knot_3_name">Nudo de Doble Lazo</string>
+    <string name="knot_3_description">Excelente para pesca con señuelos pesados. Proporciona mayor resistencia y permite mejor acción del señuelo.</string>
+    <string name="knot_3_step_1_description">Pasa el sedal dos veces por el ojo del anzuelo, formando un lazo doble.</string>
+    <string name="knot_3_step_2_description">Enrolla el extremo del sedal 5-7 veces alrededor del sedal principal.</string>
+    <string name="knot_3_step_3_description">Pasa el extremo a través del lazo doble cerca del anzuelo. Humedece y aprieta lentamente.</string>
+
+    <string name="knot_4_name">Nudo Davy</string>
+    <string name="knot_4_description">Nudo rápido y simple, especialmente popular en pesca con mosca. Muy fácil de atar incluso con sedales finos.</string>
+    <string name="knot_4_step_1_description">Pasa el sedal por el ojo del anzuelo y haz un nudo simple sin apretar.</string>
+    <string name="knot_4_step_2_description">Pasa el extremo del sedal otra vez por el nudo simple que acabas de hacer.</string>
+    <string name="knot_4_step_3_description">Humedece y aprieta tirando del sedal principal. Corta el exceso muy cerca del nudo.</string>
+
+    <string name="knot_5_name">Nudo de Pescador Doble</string>
+    <string name="knot_5_description">Ideal para unir dos sedales de grosor similar. Muy seguro y confiable, especialmente para sedales de monofilamento.</string>
+    <string name="knot_5_step_1_description">Coloca los dos sedales en paralelo con los extremos en direcciones opuestas.</string>
+    <string name="knot_5_step_2_description">Con un extremo, haz dos vueltas alrededor del otro sedal y pásalo por el bucle. Repite con el otro extremo.</string>
+    <string name="knot_5_step_3_description">Humedece ambos nudos y tira de los sedales principales para juntarlos. Los nudos deben quedar uno contra el otro.</string>
+
+    <string name="knot_6_name">Nudo Trilene</string>
+    <string name="knot_6_description">Resistente y versátil, excelente para monofilamento y fluorocarbono. Proporciona una conexión muy fuerte al anzuelo.</string>
+    <string name="knot_6_step_1_description">Pasa el sedal dos veces por el ojo del anzuelo desde el mismo lado.</string>
+    <string name="knot_6_step_2_description">Lleva el extremo del sedal hacia atrás y haz 5-7 vueltas alrededor del sedal principal.</string>
+    <string name="knot_6_step_3_description">Pasa el extremo por el primer bucle que se formó cerca del ojo del anzuelo.</string>
+    <string name="knot_6_step_4_description">Luego pasa el extremo por el bucle grande que acabas de crear.</string>
+    <string name="knot_6_step_5_description">Humedece completamente y aprieta lentamente tirando del sedal principal y del extremo. Corta el sobrante.</string>
+
+    <!-- Agregar a values/strings.xml (Español) -->
+    <string name="region_andalucia">Andalucía</string>
+    <string name="region_aragon">Aragón</string>
+    <string name="region_asturias">Asturias</string>
+    <string name="region_baleares">Islas Baleares</string>
+    <string name="region_canarias">Canarias</string>
+    <string name="region_cantabria">Cantabria</string>
+    <string name="region_castilla_la_mancha">Castilla-La Mancha</string>
+    <string name="region_castilla_leon">Castilla y León</string>
+    <string name="region_cataluna">Cataluña</string>
+    <string name="region_extremadura">Extremadura</string>
+    <string name="region_galicia">Galicia</string>
+    <string name="region_la_rioja">La Rioja</string>
+    <string name="region_madrid">Madrid</string>
+    <string name="region_murcia">Murcia</string>
+    <string name="region_navarra">Navarra</string>
+    <string name="region_pais_vasco">País Vasco</string>
+    <string name="region_valencia">Valencia</string>
+    <string name="region_ceuta">Ceuta</string>
+    <string name="region_melilla">Melilla</string>
+
+
+    <!-- _________________________________________ -->
+
+    <!-- Strings de filtros -->
+    <string name="filters_title">Filtros de Búsqueda</string>
+    <string name="search_documents_hint">Buscar documentos...</string>
+    <string name="filter_by_type">Tipo</string>
+    <string name="filter_by_region">Comunidad Autónoma</string>
+    <string name="filter_all_documents">Todos los documentos</string>
+    <string name="filter_official_documents">Documentos oficiales</string>
+    <string name="filter_personal_documents">Documentos personales</string>
+    <string name="filter_all_regions">Todas las regiones</string>
+    <string name="no_documents_match_filter">No hay documentos que coincidan con los filtros</string>
+    <string name="clear_filters">Limpiar filtros</string>
+    <string name="showing_documents">Mostrando %1$d de %2$d documentos</string>
+
+    <!-- Strings de documentación -->
+    <string name="documentation_header_title">Documentación de Pesca</string>
+    <string name="documentation_header_subtitle">Normativas autonómicas y documentos personales</string>
+    <string name="select_pdf_file">Seleccionar archivo PDF</string>
+    <string name="enter_document_name">Introduce el nombre del documento</string>
+    <string name="document_name_hint">Nombre del documento</string>
+    <string name="save">Guardar</string>
+    <string name="user_document">Documento personal</string>
+    <string name="rename_document">Renombrar documento</string>
+    <string name="delete_document">Eliminar documento</string>
+    <string name="delete_document_confirmation">¿Estás seguro de que quieres eliminar "%s"?</string>
+    <string name="delete">Eliminar</string>
+
+    <!-- Strings de errores -->
+    <string name="error_opening_file_picker">Error al abrir el selector de archivos</string>
+    <string name="error_not_pdf_file">El archivo seleccionado no es un PDF válido</string>
+    <string name="error_empty_name">El nombre no puede estar vacío</string>
+    <string name="error_copying_file">Error al copiar el archivo</string>
+    <string name="error_processing_document">Error al procesar el documento</string>
+    <string name="error_saving_document">Error al guardar el documento</string>
+    <string name="error_renaming_document">Error al renombrar el documento</string>
+    <string name="error_deleting_document">Error al eliminar el documento</string>
+    <string name="error_file_not_found">Archivo no encontrado</string>
+    <string name="error_loading_pdf">Error al cargar el PDF</string>
+    <string name="error_rendering_pdf">Error al renderizar el PDF</string>
+
+    <!-- Strings de éxito -->
+    <string name="document_saved_successfully">Documento guardado correctamente</string>
+    <string name="document_renamed_successfully">Documento renombrado correctamente</string>
+    <string name="document_deleted_successfully">Documento eliminado correctamente</string>
+
+    <!-- Strings del visualizador PDF -->
+    <string name="pdf_viewer_title">Visualizador PDF</string>
+    <string name="page_number">Página %d</string>
+
+    <!-- Strings adicionales para la documentación -->
+    <string name="predefined_documents">Documentos Oficiales</string>
+    <string name="user_documents">Mis Documentos</string>
+    <string name="no_documents_found">No hay documentos disponibles</string>
+    <string name="add_your_first_document">Agrega tu primer documento tocando el botón +</string>
+    <string name="autonomous_region">Comunidad Autónoma</string>
+    <string name="fishing_regulations">Normativa de Pesca</string>
+    <string name="document_options">Opciones del documento</string>
+    <string name="share_document">Compartir documento</string>
+    <string name="document_info">Información del documento</string>
+    <string name="file_size">Tamaño del archivo</string>
+    <string name="date_added">Fecha de agregado</string>
+    <string name="loading_document">Cargando documento...</string>
+    <string name="generating_thumbnail">Generando miniatura...</string>
+    <string name="processing_file">Procesando archivo...</string>
+
+    <!-- Strings para filtros colapsables -->
+    <string name="show_filters">Filtros</string>
+    <string name="hide_filters">Ocultar</string>
+    <string name="filters_cleared">Filtros eliminados</string>
+
+</resources>
